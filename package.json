@@ -1,0 +1,19 @@
+{
+  "name": "iife-template",
+  "version": "1.0.0",
+  "description": "iife-template-boilerplate",
+  "main": "./src/IIFE-Template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenydabur73/IIFE-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenydabur73/IIFE-Template/issues"
+  },
+  "homepage": "https://github.com/praveenydabur73/IIFE-Template#readme"
+}
